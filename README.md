@@ -35,6 +35,7 @@ Creation ID allocation is left up to the creator. However, here are some guideli
 * `0x000C_2886` [Seeed Studio](./creations/seeed-studio.md)
 * `0x000C_303A` [Espressif](./creations/espressif.md)
 * `0x000C_303B` [AI Thinker](./creations/ai-thinker.md)
+* `0x000C_303C` [Xteink](./creations/xteink.md)
 
 ## `0x00xx_xxxx` - Reserved for future ID subsets
 
