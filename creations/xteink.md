@@ -1,4 +1,4 @@
-# Xteink (0x000C_303C)
+# Xteink (0x0EEE_0000)
 Community Allocated Creation IDs for Xteink boards
 
 ## `0x00C3_xxxx` - ESP32-C3 boards
