@@ -46,6 +46,9 @@ Creation ID allocation is left up to the creator. However, here are some guideli
 * `0x0D10_D000` [Hardkernel](./creations/hardkernel.md)
 * `0x0DB6_ED6E` [Debug Edge](https://debug-edge.io)
 
+## `0x0Exx_xxxx`
+* `0x0EEE_0000` [Xteink](./creations/xteink.md)
+
 ## `0x1xxx_xxxx`
 * `0x1010_1010` [DFRobot](./creations/dfrobot.md)
 * `0x1011_1011` [WeAct](./creations/weact.md)
