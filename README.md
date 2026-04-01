@@ -70,6 +70,7 @@ Creation ID allocation is left up to the creator. However, here are some guideli
 
 ## `0x4xxx_xxxx`
 
+* `0x4010_0000` [Yoto](./creations/yoto.md)
 * `0x4496_E3F4` [SQFMI](./creations/sqfmi.md)
 * `0x4D69_0000` [Oak Dev Tech](creations/oakdevtech.md)
 * `0x4F58_3097` [Oxocard](creations/oxocard.md)
