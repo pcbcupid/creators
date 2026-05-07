@@ -11,3 +11,4 @@ Creator ID: 0x1BBB_0000
 ## `0x00C6_xxxx` - ESP32-C6 dev boards
 *  `0x00C6_0001` [ESP32 C6 Zero](https://www.waveshare.com/wiki/ESP32-C6-Zero)
 *  `0x00C6_0002` [ESP32 C6 LCD 1.47](https://www.waveshare.com/wiki/ESP32-C6-LCD-1.47)
+*  `0x00C6_0003` [ESP32 C6 TOUCH LCD 1.47](https://www.waveshare.com/wiki/ESP32-C6-Touch-LCD-1.47)
