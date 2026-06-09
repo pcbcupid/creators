@@ -13,3 +13,6 @@ Community Allocated Creation IDs for LILYGO boards
 *  `0x00C3_0002` [TTGO T-OI-PLUS](https://github.com/Xinyuan-LilyGO/LilyGo-T-OI-PLUS)
 *  `0x00C3_0003` [TTGO T-SIM7000G](https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7000G)
 *  `0x00C3_0004` [TTGO T-PCIE](https://github.com/Xinyuan-LilyGO/LilyGo-T-PCIE)
+
+## '0x0053_xxxx' - S3 dev boards
+*  `0x0053_0001` [T-2Can (V1)](https://github.com/Xinyuan-LilyGO/T-2Can)
