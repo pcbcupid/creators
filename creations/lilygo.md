@@ -1,5 +1,6 @@
 # lilygo-creations
 Community Allocated Creation IDs for LILYGO boards
+Creator ID: 0xC3C3_0000 
 
 ## `0x0032_xxxx` - ESP32 boards
 *  `0x0032_0001` [T-Watch 2020 (V3)](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library)
