@@ -40,7 +40,7 @@ Creation ID allocation is left up to the creator. However, here are some guideli
 
 ## `0x01xx_xxxx`
 * `0x0101_1ACE` [01 Space](./creations/01space.md)
-
+  
 ## `0x0Dxx_xxxx`
 * `0x0D10_C000` [VIDI](./creations/vidi.md)
 * `0x0D10_D000` [Hardkernel](./creations/hardkernel.md)
@@ -67,6 +67,9 @@ Creation ID allocation is left up to the creator. However, here are some guideli
 * `0x1C33_0000` [Freenove](./creations/freenove.md)
 * `0x1C34_0000` [April_Brother](./creations/april_brother.md)
 * `0x1C35_0000` [Elecrow](./creations/elecrow.md)
+
+## `0x2xxx_xxxx`
+* `0x2024_1402` [Pcbcupid](./creations/pcbcupid.md)
 
 ## `0x4xxx_xxxx`
 
